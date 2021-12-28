@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GeekBrains\\exit_task\\exit_task.csproj": {}
+    "C:\\Users\\User\\Desktop\\exit_task\\exit_task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GeekBrains\\exit_task\\exit_task.csproj": {
+    "C:\\Users\\User\\Desktop\\exit_task\\exit_task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GeekBrains\\exit_task\\exit_task.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\exit_task\\exit_task.csproj",
         "projectName": "exit_task",
-        "projectPath": "C:\\Users\\User\\Desktop\\GeekBrains\\exit_task\\exit_task.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\exit_task\\exit_task.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GeekBrains\\exit_task\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\exit_task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
